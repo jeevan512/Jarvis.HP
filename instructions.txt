@@ -1,0 +1,5 @@
++1.after clicking the power button only the all buttons on the window will work.'
+2.the female voice button in the window of more options will be fixed soon
+3.dashboard command wont work
+4.if GTAV game and THE WONDER SHARE apps are there in you system only they will open other wise comment them
+5.if any errors are occurred just contact me in the GitHub or call me 7013259413
